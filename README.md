@@ -16,3 +16,8 @@ Clean data is provided in Clean-data.csv
 
 ## Acknowledgements 
 * **Kaggle** for the dataset
+## Preview Snapshot data before
+<img width="1362" alt="AfterImg" src="https://github.com/bocongamco/Data-eng-practice/assets/106379591/0d931981-6f2e-41b1-8636-d1ef10d30936">
+
+## Preview Snapshot data after
+<img width="1364" alt="Screenshot 2024-05-30 at 01 31 35" src="https://github.com/bocongamco/Data-eng-practice/assets/106379591/3840d65d-661b-453d-9a2f-d706f7706723">
